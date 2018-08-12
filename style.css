@@ -1,0 +1,50 @@
+#navcontainer {
+    border-bottom: 3px solid #ccc;
+    padding: 0 100px 0 100px;
+}
+
+#name {
+    background: #4aaaa5;
+    color: white;
+    font-size: 30pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#navlink {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20pt;
+}
+
+#green-line {
+    position: fixed;
+    background: #4aaaa5;
+    bottom: 60px;
+    height: 10px;
+    width: 100%;
+}
+
+.footerClass {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #666666;
+    text-align: center;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.footerClass {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #666666;
+    text-align: center;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
