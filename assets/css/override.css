@@ -49,7 +49,6 @@ body {
 
 #main-content {
     margin-top: 60px;
-    
     border: 1px solid #ddd;
 }
 
@@ -71,15 +70,49 @@ nav a {
 nav a:first-child {
     border-left: 0 none;
 }
-#profile-pic{
-    padding:1em;
-} .main-section {
+
+#profile-pic {
+    padding: 1em;
+}
+
+.main-section {
     width: 100%;
     padding: 30px;
     margin: 0 0 40px;
     background: #fff;
     border: 1px solid #ddd;
-  }
-  .content-header{
-     
-  }
+}
+
+.content-header {}
+
+img {
+    width: 100%
+}
+
+.work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+}
+
+.work img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+}
+
+.work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+}
